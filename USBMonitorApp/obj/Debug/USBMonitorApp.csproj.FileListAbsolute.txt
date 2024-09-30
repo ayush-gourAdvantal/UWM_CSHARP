@@ -1,0 +1,10 @@
+C:\Users\ayush gour\source\repos\USBMonitorApp\bin\Debug\USBMonitorApp.exe.config
+C:\Users\ayush gour\source\repos\USBMonitorApp\bin\Debug\USBMonitorApp.exe
+C:\Users\ayush gour\source\repos\USBMonitorApp\bin\Debug\USBMonitorApp.pdb
+C:\Users\ayush gour\source\repos\USBMonitorApp\bin\Debug\System.CodeDom.dll
+C:\Users\ayush gour\source\repos\USBMonitorApp\bin\Debug\System.CodeDom.xml
+C:\Users\ayush gour\source\repos\USBMonitorApp\obj\Debug\USBMonitorApp.csproj.AssemblyReference.cache
+C:\Users\ayush gour\source\repos\USBMonitorApp\obj\Debug\USBMonitorApp.csproj.CoreCompileInputs.cache
+C:\Users\ayush gour\source\repos\USBMonitorApp\obj\Debug\USBMonit.DD713190.Up2Date
+C:\Users\ayush gour\source\repos\USBMonitorApp\obj\Debug\USBMonitorApp.exe
+C:\Users\ayush gour\source\repos\USBMonitorApp\obj\Debug\USBMonitorApp.pdb
